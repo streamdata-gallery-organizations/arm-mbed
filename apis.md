@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28251-os-m
 x-kinRank: "7"
 x-alexaRank: "38966"
 tags: Arm Mbed
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/arm-mbed/master/_listings/arm-mbed/apis.md
 specificationVersion: "0.14"
 apis: []
